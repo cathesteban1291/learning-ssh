@@ -1,6 +1,6 @@
 <?php
 /**
- * The header for our theme. header
+ * The header for our theme. head
  *
  * Displays all of the <head> section and everything up till <div id="content">
  *
