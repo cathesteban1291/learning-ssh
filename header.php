@@ -2,6 +2,7 @@
 /**
  * The header for our theme.
  *
+ login
  * Displays all of the <head> section and everything up till <div id="content">
  *
  * @package start
